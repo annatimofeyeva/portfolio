@@ -5,8 +5,8 @@ body {
 container {
   background-color: f9f9f9;
   }
-img {
-  width: 140 px;
+#image {
+  float: left;
 }
 .header {
   color: blue;
@@ -14,6 +14,7 @@ img {
   float: right;
   font-family: sans-serif;
  }
-.jumbotron {
-  color: red;
+.well h2 {
+  color: #032f75;
+  background-color:#bec9db;
 }
