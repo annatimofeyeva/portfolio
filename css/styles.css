@@ -1,24 +1,19 @@
 body {
- backgroung-color: #d1d6d3;
- }
-#header {
+ backgroung-color: white;
+ background-image: url(http://media.istockphoto.com/photos/abstract-background-picture-id485344527?k=6&m=485344527&s=612x612&w=0&h=MbNSAcXGwQxOoSfIIcTmKz-Fn3_ila2C1icThauQVv4=);
 
+container {
+  background-color: f9f9f9;
+  }
+img {
+  width: 140 px;
 }
-
- h1{
-
-
-}
- h3{
-
-
+.header {
+  color: blue;
+  font-size: 50px;
+  float: right;
+  font-family: sans-serif;
  }
-
-<p> {
-
-
+.jumbotron {
+  color: red;
 }
- blockquote {
-
-
- }
