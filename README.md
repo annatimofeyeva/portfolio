@@ -1,8 +1,8 @@
-# _{portfolio}_
+# _portfolio_
 
-#### _{portfolio webpage}, {05.26.2017}_
+#### _Portfolio webpage, {05.26.2017}_
 
-#### By _**{Anna Timofeeva}**_
+#### By _**Anna Timofeeva**_
 
 ## Description
 
@@ -14,18 +14,18 @@ _{This is my portfolio page. It's includes an information about myself, skills, 
 
 ## Known Bugs
 
-_{no issues up to now}_
+_no issues up to now_
 
 ## Technologies Used
 
-_{HTML, CSS, Bootstrap}_
+_HTML, CSS, Bootstrap_
 
 ## GitHub link
 
-_{https://github.com/annatimofeyeva/portfolio}_
+_https://github.com/annatimofeyeva/portfolio_
 
 ### License
 
-*{MIT license}*
+*MIT license*
 
-Copyright (c) 2016 **_{Anna Timofeeva}_**
+Copyright (c) 2016 **_Anna Timofeeva_**
