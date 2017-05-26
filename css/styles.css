@@ -1,20 +1,22 @@
+.container {
+  background-color: f9f9f9;
+  }
 body {
  backgroung-color: white;
  background-image: url(http://media.istockphoto.com/photos/abstract-background-picture-id485344527?k=6&m=485344527&s=612x612&w=0&h=MbNSAcXGwQxOoSfIIcTmKz-Fn3_ila2C1icThauQVv4=);
-
 container {
   background-color: f9f9f9;
   }
-#image {
-  float: left;
-}
+  h1 {
+  color: red;
+  }
 .header {
   color: blue;
   font-size: 50px;
   float: right;
   font-family: sans-serif;
  }
-.well h2 {
-  color: #032f75;
-  background-color:#bec9db;
+.jumbotron {
+  padding-top: 0px;
+  padding-bottom:0px;
 }
