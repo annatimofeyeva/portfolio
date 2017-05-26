@@ -1,12 +1,12 @@
-# _portfolio_
+# _Portfolio_
 
-#### _Portfolio webpage, {05.26.2017}_
+#### _Portfolio webpage for Epicodus, 05.26.2017_
 
 #### By _**Anna Timofeeva**_
 
 ## Description
 
-_{This is my portfolio page. It's includes an information about myself, skills, previous work experience and perspectives. Technologies used: HTML, CSS and Bootstrap.}_
+_This is my portfolio page. It's includes an information about myself, skills, previous work experience and perspectives. Technologies used: HTML, CSS and Bootstrap._
 
 ## Setup/Installation Requirements
 
