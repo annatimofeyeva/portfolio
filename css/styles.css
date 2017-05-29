@@ -28,4 +28,23 @@ h1 {
 .portfolio {
   font-style: italic;
   font-weight: bold;
+  font-family: "Times New Roman";
+}
+.about {
+  background-color: #eaecef;
+}
+#interests {
+  background-color:#eaecef;
+}
+.hello {
+  font-family: "Times New Roman";
+  font-weight: bold;
+}
+.seattle {
+  font-family: "Times New Roman";
+}
+.student {
+  font-style: italic;
+  font-weight: bold;
+  font-family: "Times New Roman";
 }
