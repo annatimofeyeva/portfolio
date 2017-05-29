@@ -1,22 +1,31 @@
-.container {
-  background-color: f9f9f9;
-  }
 body {
  backgroung-color: white;
  background-image: url(http://media.istockphoto.com/photos/abstract-background-picture-id485344527?k=6&m=485344527&s=612x612&w=0&h=MbNSAcXGwQxOoSfIIcTmKz-Fn3_ila2C1icThauQVv4=);
-container {
-  background-color: f9f9f9;
-  }
-  h1 {
-  color: red;
-  }
-.header {
-  color: blue;
-  font-size: 50px;
-  float: right;
-  font-family: sans-serif;
  }
+h1 {
+  color: #315691;
+  font-weight: bold;
+}
+.bg-info {
+  margin-top: 30px;
+}
+.bg-danger {
+  font-size: 15px;
+}
+.blockquote {
+  margin-top: 30px;
+}
+.panel-title {
+  font-weight: bold;
+  font-style: italic;
+}
 .jumbotron {
-  padding-top: 0px;
-  padding-bottom:0px;
+  padding: 4px 4px 4px 4px;
+}
+.well {
+ box-shadow: 10px 10px 5px grey;
+}
+.portfolio {
+  font-style: italic;
+  font-weight: bold;
 }
